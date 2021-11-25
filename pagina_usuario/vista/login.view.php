@@ -4,7 +4,7 @@
 <div class="container">
     <section id="content">
          <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST" class="bg-light p-5">
-            <h1>Inicio De Sesion Usuario</h1>
+            <h1>Hackeable</h1>
             <div>
                 <input type="text" placeholder="Digite Su Usuario" required="true" name="nombre" />
             </div>
